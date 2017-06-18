@@ -1,4 +1,4 @@
-# Cyberroam-Autologin
+# Cyberoam-Autologin
 Python script for autologin to college wifi-access
 
 
@@ -10,4 +10,4 @@ python modules required:
 selenium (command: "pip install selenium" from the terminal)
 pyautogui( http://pyautogui.readthedocs.io/en/latest/install.html)
 
-Please feel free to edit it furhter,let's make it better.
+Please feel free to make it better.
