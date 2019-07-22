@@ -10,4 +10,3 @@ python modules required:
 selenium (command: "pip install selenium" from the terminal)
 pyautogui( http://pyautogui.readthedocs.io/en/latest/install.html)
 
-Please feel free to make it better.
